@@ -1,0 +1,6 @@
+Name of S3 folders into which files go:
+'s3://my-508-projects/ndc-file/ndc_excel3.csv'
+'s3://my-508-projects/drugevent/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_2.csv'
+'s3://my-508-projects/bene/176589_DE1_0_2008_Beneficiary_Summary_File_Sample_2.zip'
+'s3://my-508-projects/bene/176629_DE1_0_2009_Beneficiary_Summary_File_Sample_2.zip'
+'s3://my-508-projects/bene/176581_DE1_0_2010_Beneficiary_Summary_File_Sample_2.zip' 
